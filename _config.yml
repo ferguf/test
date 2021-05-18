@@ -1,1 +1,11 @@
+# basic options
+title: Network Documentation 
+author: ME
+email: francis.fergsuon@Lumen.com
+description: Messing around
+twitter_username: ferguf123
+github_username:  ferguf123
 
+# Build settings
+markdown: kramdown
+theme: minima
